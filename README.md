@@ -34,3 +34,11 @@ Or this:
 
 <img width="344" alt="screen shot 2017-10-12 at 12 32 54 am" src="https://user-images.githubusercontent.com/1571667/31484404-0e4ef828-aee5-11e7-98e8-49b38bb7f8e9.png">
 
+
+```
+🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞
+🐞🐞🐞🐞🐞🐞🐞🐞🐞                                                            🐞🐞🐞🐞🐞🐞🐞🐞🐞
+🐞🐞🐞🐞🐞🐞🐞🐞🐞  Can you fix it?  Put on your debugging hat and find out!  🐞🐞🐞🐞🐞🐞🐞🐞🐞
+🐞🐞🐞🐞🐞🐞🐞🐞🐞                                                            🐞🐞🐞🐞🐞🐞🐞🐞🐞
+🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞
+```
