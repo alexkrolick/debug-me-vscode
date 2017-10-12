@@ -8,7 +8,7 @@ class App extends Component {
   fetchData () {
     fetch('http://localhost:3001/')
       .then(res => res.json())
-      .then(({hello}) => this.setState({hello}))
+      .then(({hello}) => this.setState({helloz: hello}))
       .catch(e => {
         this.setState({hello: 'Mars'})
       })
