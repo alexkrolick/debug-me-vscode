@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "serve": "node server.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-alexkrolick"
+  },
+  "dependencies": {
+    "fastify": "^0.29.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-alexkrolick": "^1.0.8",
+    "nodemon": "^1.12.1"
+  }
+}
