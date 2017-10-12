@@ -5,6 +5,8 @@ const cors = require('cors')
 
 fastify.use(cors())
 
+const replyWith = 'Ganymede'
+
 const schema = {
   schema: {
     response: {
@@ -21,7 +23,7 @@ const schema = {
 }
 
 fastify.get('/', schema, function (req, reply) {
-  reply.send({ hello: 'world' })
+  reply.send({ hello: replyWith })
 })
 
 fastify.listen(3001, err => {
